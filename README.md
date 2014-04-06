@@ -12,3 +12,8 @@ Resources used:
 V0.0001
 
 1. Made a SOIC8 package for a general FRAM Memory Chip
+
+V0.0002
+
+1. Changed GND and Vcc pins to general I/O to prevent wires for being automatically populated
+2. Wrong pinout from 5-8 resulting in reverse order
