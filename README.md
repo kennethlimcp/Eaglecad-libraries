@@ -7,6 +7,7 @@ Resources used:
 
 1. https://learn.adafruit.com/ktowns-ultimate-creating-parts-in-eagle-tutorial/the-symbol-editor
 2. https://github.com/sparkfun/SparkFun-Eagle-Libraries
+3. https://learn.sparkfun.com/tutorials/designing-pcbs-smd-footprints/all
 
 V0.0001
 
