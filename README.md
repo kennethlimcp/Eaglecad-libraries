@@ -17,3 +17,7 @@ V0.0002
 
 1. Changed GND and Vcc pins to general I/O to prevent wires for being automatically populated
 2. Wrong pinout from 5-8 resulting in reverse order
+
+V0.0003
+
+1. Pin 5 and 6 connection incorrectly linked!

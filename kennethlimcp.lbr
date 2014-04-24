@@ -161,8 +161,8 @@
 <connect gate="G$1" pin="!HOLD" pad="7"/>
 <connect gate="G$1" pin="!WP" pad="3"/>
 <connect gate="G$1" pin="GND" pad="4"/>
-<connect gate="G$1" pin="SCK" pad="5"/>
-<connect gate="G$1" pin="SI" pad="6"/>
+<connect gate="G$1" pin="SCK" pad="6"/>
+<connect gate="G$1" pin="SI" pad="5"/>
 <connect gate="G$1" pin="SO" pad="2"/>
 <connect gate="G$1" pin="VCC" pad="8"/>
 </connects>
